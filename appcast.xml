@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Sparkle Test App Changelog</title>
+        <link>http://sparkle-project.org/files/sparkletestcast.xml</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.1</title>
+            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:criticalUpdate></sparkle:criticalUpdate>
+            <description>
+                Please update!
+            </description>
+            <pubDate>Mon, 05 Oct 2015 19:20:11 +0000</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/duymanhit/receipt_claim_app/main/app-release.apk?verson=101"
+                       type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
